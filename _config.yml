@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "SaSABA"
   avatar           : "/assets/img/icon.png"
-  bio              : "実はJavaScriptより魚介類がすき"
-  location         : "黒潮"
+  bio              : "よくJavaScriptで戯れます。"
+  # location         : ""
   email            :
   links:
     - label: "Email"
