@@ -5,7 +5,7 @@ declare module './index' {
 
     type ARC_MODE = CHORD | PIE | OPEN;
 
-    type BEGIN_KIND = POINTS | LINES | TRIANGLES | TRIANGLE_FAN | TRIANGLE_STRIP | QUADS | QUAD_STRIP;
+    type BEGIN_KIND = POINTS | LINES | TRIANGLES | TRIANGLE_FAN | TRIANGLE_STRIP | QUADS | QUAD_STRIP | TESS;
 
     type BLEND_MODE =
         | BLEND
@@ -50,7 +50,7 @@ declare module './index' {
 
     type SIZE_W = AUTO;
 
-    type STROKE_CAP = SQUARE | PROJECT | ROUND;
+    type STROKE_CAP = ROUND | SQUARE | PROJECT;
 
     type STROKE_JOIN = MITER | BEVEL | ROUND;
 

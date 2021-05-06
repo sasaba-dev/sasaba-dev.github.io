@@ -1,6 +1,7 @@
-/// <reference path="../p5def/global.d.ts" />
-/// <reference path="../p5def/literals.d.ts" />
-/// <reference path="../p5def/constants.d.ts" />
+/// <reference path="../p5types/global.d.ts" />
+/// <reference path="../p5types/literals.d.ts" />
+/// <reference path="../p5types/constants.d.ts" />
+/// <reference path="../p5types/index.d.ts" />
 
 let img_fish;
 let img_circle;

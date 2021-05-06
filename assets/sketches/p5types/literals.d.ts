@@ -68,6 +68,7 @@ declare module './index' {
     type QUADS = 'quads';
     type RADIANS = 'radians';
     type RADIUS = 'radius';
+    type REMOVE = 'destination-out';
     type REPEAT = 'repeat';
     type REPLACE = 'copy';
     type RGB = 'rgb';
@@ -78,6 +79,7 @@ declare module './index' {
     type SQUARE = 'butt';
     type STROKE = 'stroke';
     type SUBTRACT = 'subtract';
+    type TESS = 'tess';
     type TEXT = 'text';
     type TEXTURE = 'texture';
     type THRESHOLD = 'threshold';
